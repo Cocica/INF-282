@@ -1,5 +1,5 @@
 // Terceiro cenário do Trabalho 3 PO3 2020 UFV - 2020
-// Aluno: Alisson de O. Xavier - 95665
+// Aluno: Alisson de O. Xavier 
 
 execute {
   cplex.EpGap = 1E-9;
