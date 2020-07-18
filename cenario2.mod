@@ -1,4 +1,4 @@
-// Primeiro cen·rio do Trabalho 3 PO3 2020 UFV - 2020
+// Segundo cen√°rio do Trabalho 3 PO3 2020 UFV - 2020
 // Aluno: Alisson de O. Xavier
 
 execute {
@@ -91,7 +91,7 @@ writeln("");
 
 writeln("Custo de Transp. p/ UPMs:                  ", toFixed( CFaz, 12, 2 ));
 writeln("Custo fixo UPMs:                           ", toFixed( Cfixo, 12, 2 ));
-writeln("Custo de Transp. de Ûleo:                  ", toFixed( CO, 12, 2 ));
+writeln("Custo de Transp. de √≥leo:                  ", toFixed( CO, 12, 2 ));
 writeln("Custo de Transp. de farinha:               ", toFixed( CA, 12, 2 ));
 writeln("Custo de Transp. de amido:                 ", toFixed( CF, 12, 2 ));
 writeln("Custo TOTAL:                               ", toFixed( Ctot, 12, 2 ));
@@ -119,7 +119,7 @@ for(i in Faz)
 writeln("------------------------------------------------------------------")
 
 writeln("");
-writeln("Demanda de Ûleo atendida por cada UPM:");
+writeln("Demanda de √≥leo atendida por cada UPM:");
 writeln("");
 writeln("UPM                           Cidade Atendida                 Qtde")
 writeln("------------------------------------------------------------------")
